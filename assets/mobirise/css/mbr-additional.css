@@ -882,7 +882,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s7OPVO41xe button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -962,7 +962,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s7OPVO41xe .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.2rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-s7OPVO41xe .collapsed button.navbar-toggler {
@@ -1496,7 +1496,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s7P3wt3LGa button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1576,7 +1576,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s7P3wt3LGa .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.2rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-s7P3wt3LGa .collapsed button.navbar-toggler {
@@ -2162,7 +2162,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s7PHvWjdAt button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2242,7 +2242,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s7PHvWjdAt .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.2rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-s7PHvWjdAt .collapsed button.navbar-toggler {
@@ -2793,7 +2793,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s7PUg5CPyB button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2873,7 +2873,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s7PUg5CPyB .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.2rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-s7PUg5CPyB .collapsed button.navbar-toggler {
@@ -3187,7 +3187,7 @@ section.lazy-placeholder:after {
 }
 .cid-smXfpY0UsO {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-smXfpY0UsO .mbr-section-subtitle {
