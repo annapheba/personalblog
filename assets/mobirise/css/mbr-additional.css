@@ -1150,7 +1150,7 @@ section.lazy-placeholder:after {
   color: #465052;
 }
 .cid-smWC5KrDRS {
-  background-image: url("../../../assets/images/whatsapp-image-2021-01-23-at-11.59.17-pm-720x1280.jpeg");
+  background-image: url("../../../assets/images/img-20190816-wa0050-873x1164.jpg");
 }
 .cid-smWC5KrDRS h1 {
   color: #616161;
@@ -1165,7 +1165,7 @@ section.lazy-placeholder:after {
 }
 .cid-smWC5KrDRS .mbr-text,
 .cid-smWC5KrDRS .mbr-section-btn {
-  color: #4f4943;
+  color: #232323;
 }
 .cid-s7OUPpfuDN {
   padding-top: 15px;
@@ -3475,7 +3475,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-s7OPVO41xe button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3555,7 +3555,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s7OPVO41xe .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.2rem);
   }
 }
 .cid-s7OPVO41xe .collapsed button.navbar-toggler {
