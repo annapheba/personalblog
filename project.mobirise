@@ -819,7 +819,7 @@
     },
     "life_is_a_tale.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "",
         "title": "Life is a Tale | April 2016",
         "order": 5,
         "meta_image": "@PROJECT_PATH@/assets/images/poster-1-992x558.jpg"
@@ -1634,7 +1634,7 @@
     },
     "thankyou_ieeegecbh.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "",
         "title": "Thank you IEEE GECBH | April 2018",
         "order": 6,
         "meta_image": "@PROJECT_PATH@/assets/images/ieee-logo-758x472.jpg"
@@ -2410,7 +2410,7 @@
     },
     "Being_the_spark.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "",
         "title": "Being the spark | June 2016",
         "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/mg-50.jpeg"
@@ -4423,7 +4423,7 @@
     },
     "threeyears.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Four years ago, someone took a chance on me...",
         "title": "Three years | June 2021",
         "order": 1
       },
