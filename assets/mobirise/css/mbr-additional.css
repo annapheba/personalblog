@@ -4786,6 +4786,7 @@ section.lazy-placeholder:after {
 }
 .cid-sBlAkk3e1B .section-text {
   padding: 2rem 0;
+  color: #000000;
 }
 .cid-sBlAkk3e1B .inner-container {
   margin: 0 auto;
@@ -4794,6 +4795,9 @@ section.lazy-placeholder:after {
   .cid-sBlAkk3e1B .inner-container {
     width: 100% !important;
   }
+}
+.cid-sBlAkk3e1B .section-text DIV {
+  text-align: center;
 }
 .cid-sBEMYMs0Mw {
   padding-top: 15px;
