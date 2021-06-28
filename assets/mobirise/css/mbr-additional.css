@@ -4772,31 +4772,16 @@ section.lazy-placeholder:after {
 .cid-sBETfLjCUc .card-title {
   color: #000000;
 }
-.cid-sBlAkk3e1B {
-  padding-top: 30px;
+.cid-sBF5g4WZ71 {
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-sBlAkk3e1B .line {
-  background-color: #b1a374;
-  color: #b1a374;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-sBF5g4WZ71 .mbr-text,
+.cid-sBF5g4WZ71 blockquote {
+  color: #767676;
 }
-.cid-sBlAkk3e1B .section-text {
-  padding: 2rem 0;
-  color: #000000;
-}
-.cid-sBlAkk3e1B .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-sBlAkk3e1B .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-sBlAkk3e1B .section-text DIV {
+.cid-sBF5g4WZ71 .mbr-text P {
   text-align: center;
 }
 .cid-sBEMYMs0Mw {
